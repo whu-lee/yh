@@ -1,0 +1,199 @@
+文件夹             文件     类型                                 Max.Prin     Mid.Prin     Min.Prin       Tresca        Mises
+----------------------------------------------------------------------------------------------------------------------
+bsk10mpend      1      Membrane(Average) Stress            50.7307      10.9022     -2.96743      53.6981      48.2813
+                       Membrane+Bending, Point 1           147.604      40.5493      21.4813      126.123      117.753
+
+bsk10mpend      2      Membrane(Average) Stress            39.0873      4.17179     -7.79326      46.8805      42.1903
+                       Membrane+Bending, Point 1           120.949      24.1894      6.93456      114.014      106.441
+
+bsk10mpend      3      Membrane(Average) Stress             48.221      2.39265     -5.54565      53.7666      50.2698
+                       Membrane+Bending, Point 1           116.137      16.4195      6.52437      109.612      105.015
+
+bsk10mpend      4      Membrane(Average) Stress            42.5945      2.82038     -6.24896      48.8434      44.9995
+                       Membrane+Bending, Point 1           117.377      13.2368      6.16031      111.217      107.853
+
+bsk10mpend      5      Membrane(Average) Stress            48.7327       3.1599     -5.86585      54.5986      50.6919
+                       Membrane+Bending, Point 1           124.197      14.9399      5.05036      119.146      114.522
+
+bsk10mpend      6      Membrane(Average) Stress            55.3691     0.745216     -7.79457      63.1637      59.3563
+                       Membrane+Bending, Point 1           135.981       14.919    -0.265734      136.246      129.324
+
+bsk10mpend      7      Membrane(Average) Stress            52.8584    -0.698337     -8.90794      61.7663      58.0982
+                       Membrane+Bending, Point 1           102.777      3.98447      3.09124      99.6859      99.2423
+
+bsk10mpend      8      Membrane(Average) Stress            49.3793      1.47967     -13.2139      62.5931      56.6929
+                       Membrane+Bending, Point 1           116.742      8.57339       7.4003      109.342       108.76
+
+bsk10mpend      9      Membrane(Average) Stress            47.1184     0.509138     -15.5326      62.6509      56.3689
+                       Membrane+Bending, Point 1           102.915      4.84003     0.125841      102.789      100.515
+
+bsk10mpend      10     Membrane(Average) Stress            45.1298      2.15348     -16.5637      61.6935      54.7877
+                       Membrane+Bending, Point 1           102.774      6.63096     -5.45471      108.228       102.72
+
+bsk10mpend      11     Membrane(Average) Stress            40.3065      6.57241     -14.6057      54.9121      47.9679
+                       Membrane+Bending, Point 1           97.6167      14.2293     -2.43239      100.049      92.8464
+
+bsk10mpend      12     Membrane(Average) Stress            32.7092      5.96668     -16.0618       48.771      42.3026
+                       Membrane+Bending, Point 1           97.3496      8.77731      -2.9046      100.254      94.9538
+
+bsk10mpend      13     Membrane(Average) Stress            39.7575       1.9393     -16.3107      56.0682      49.5324
+                       Membrane+Bending, Point 1           93.7036      2.46524     -8.71893      102.423      97.3137
+
+bsk10mpend      14     Membrane(Average) Stress            42.6677      4.32655     -16.4208      59.0885      51.9228
+                       Membrane+Bending, Point 1           107.516      7.67965     -2.13251      109.648      105.086
+
+bsk10mpend      15     Membrane(Average) Stress            43.0335      3.85758     -16.5702      59.6037      52.4626
+                       Membrane+Bending, Point 1           109.723      6.77338      3.51171      106.211      104.618
+
+bsk10mpend      16     Membrane(Average) Stress            43.3264      4.02219     -14.4344      57.7608      51.0969
+                       Membrane+Bending, Point 1           124.131      10.6668      6.36194      117.769      115.676
+
+bsk10mpend      17     Membrane(Average) Stress            47.8037      3.80571     -11.2415      59.0452       53.144
+                       Membrane+Bending, Point 1           123.269      13.0238      8.25053      115.018      112.707
+
+bsk10mpend      18     Membrane(Average) Stress            39.9709       3.4149     -10.5737      50.5446      45.2038
+                       Membrane+Bending, Point 1           118.703      11.7114       5.3079      113.395      110.332
+
+bsk10mpend      19     Membrane(Average) Stress            44.3532      3.59263     -7.81046      52.1636         47.5
+                       Membrane+Bending, Point 1           121.915      14.6767       8.3878      113.527      110.517
+
+bsk10mpend      20     Membrane(Average) Stress            42.7543      1.60708     -6.92377      49.6781      46.0097
+                       Membrane+Bending, Point 1           127.171      17.5824      3.45946      123.711      117.289
+
+bsk10mpend      21     Membrane(Average) Stress            41.5681      2.62553     -6.90967      48.4777      44.4833
+                       Membrane+Bending, Point 1           121.856      20.0739       3.5896      118.267      110.947
+
+bsk10mpend      22     Membrane(Average) Stress            50.7006      15.2368      1.21947      49.4812      44.1732
+                       Membrane+Bending, Point 1           154.598       46.603      33.7431      120.855      114.966
+
+bsk15mpend      1      Membrane(Average) Stress            73.0823      17.0637     -4.38014      77.4624      69.2761
+                       Membrane+Bending, Point 1           214.038      60.1945      33.6585       180.38      168.684
+
+bsk15mpend      2      Membrane(Average) Stress            55.8974      5.95202     -12.7568      68.6542      61.4734
+                       Membrane+Bending, Point 1           177.423      34.8166      10.0414      167.381      156.472
+
+bsk15mpend      3      Membrane(Average) Stress            70.2121      3.59957     -8.82426      79.0364       73.615
+                       Membrane+Bending, Point 1           171.556      23.9395      9.74495      161.811      155.202
+
+bsk15mpend      4      Membrane(Average) Stress            61.2694      4.02213     -10.1045      71.3738      65.4638
+                       Membrane+Bending, Point 1           171.766       18.693      9.04485      162.721      158.118
+
+bsk15mpend      5      Membrane(Average) Stress            70.8654      4.80167       -9.392      80.2574       74.186
+                       Membrane+Bending, Point 1           182.516      21.3943      7.67186      174.844      168.403
+
+bsk15mpend      6      Membrane(Average) Stress              78.05      1.50671      -13.007       91.057      84.7375
+                       Membrane+Bending, Point 1           194.185      19.9232      0.51738      193.667       184.73
+
+bsk15mpend      7      Membrane(Average) Stress            71.6303    -0.892231     -15.7216      87.3519      80.9622
+                       Membrane+Bending, Point 1           143.539       4.8234      2.56523      140.974      139.858
+
+bsk15mpend      8      Membrane(Average) Stress            71.0097      2.32788     -20.7424      91.7521      82.6676
+                       Membrane+Bending, Point 1           170.673      11.7167      11.0542      159.619      159.288
+
+bsk15mpend      9      Membrane(Average) Stress            68.5507     0.851904     -23.8944      92.4451      82.8903
+                       Membrane+Bending, Point 1           151.635      7.26687     -0.30148      151.937      148.298
+
+bsk15mpend      10     Membrane(Average) Stress            66.5115      3.20659     -25.0752      91.5866      81.2265
+                       Membrane+Bending, Point 1           152.275      9.77988     -8.58314      160.858      152.508
+
+bsk15mpend      11     Membrane(Average) Stress            59.3716      10.0999      -21.949      81.3206      70.9502
+                       Membrane+Bending, Point 1           145.154      21.6634     -3.58055      148.735      137.857
+
+bsk15mpend      12     Membrane(Average) Stress             46.897      8.80093     -24.6723      71.5693      62.0239
+                       Membrane+Bending, Point 1           141.271       13.007     -5.33571      146.607       138.35
+
+bsk15mpend      13     Membrane(Average) Stress            57.4218      2.85617     -24.8101      82.2319      72.4739
+                       Membrane+Bending, Point 1           137.033      3.61109     -13.6849      150.718      142.857
+
+bsk15mpend      14     Membrane(Average) Stress            61.6335      6.28187     -25.2552      86.8887      76.1841
+                       Membrane+Bending, Point 1           157.546      11.1766     -4.11404      161.661      154.583
+
+bsk15mpend      15     Membrane(Average) Stress            62.7169       5.6424     -25.4509      88.1678      77.4527
+                       Membrane+Bending, Point 1           162.069      9.85918      4.63036      157.439      154.891
+
+bsk15mpend      16     Membrane(Average) Stress            61.5252      5.81724     -22.7733      84.2985       74.253
+                       Membrane+Bending, Point 1           180.415      14.2519      9.17872      171.237      168.757
+
+bsk15mpend      17     Membrane(Average) Stress             69.183      5.54465     -17.6815      86.8646      77.8934
+                       Membrane+Bending, Point 1           181.036      18.3368        12.12      168.916      165.895
+
+bsk15mpend      18     Membrane(Average) Stress            57.0397      4.94241      -16.745      73.7847      65.6835
+                       Membrane+Bending, Point 1           174.112      16.4446      7.85305      166.259      162.134
+
+bsk15mpend      19     Membrane(Average) Stress            63.6021      5.29189     -12.4647      76.0669      68.9258
+                       Membrane+Bending, Point 1            177.23      20.9109      12.7279      164.502      160.567
+
+bsk15mpend      20     Membrane(Average) Stress            60.7686      2.51177      -11.311      72.0796      66.2586
+                       Membrane+Bending, Point 1           185.722      24.9874       5.5532      180.169      171.281
+
+bsk15mpend      21     Membrane(Average) Stress            59.1952       3.7376     -11.3853      70.5805      64.3656
+                       Membrane+Bending, Point 1            177.76       28.557      5.30937      172.451      162.082
+
+bsk15mpend      22     Membrane(Average) Stress            74.9504      24.0356       3.0797      71.8707       64.019
+                       Membrane+Bending, Point 1           225.226      70.2843      52.0503      173.176      164.817
+
+bsk5mpopen      1      Membrane(Average) Stress            25.2233      3.67136      1.08093      24.1423       22.957
+                       Membrane+Bending, Point 1           56.9075        14.72      5.35544      51.5521      47.5663
+
+bsk5mpopen      2      Membrane(Average) Stress            22.8502      2.25874     0.920941      21.9293      21.2919
+                       Membrane+Bending, Point 1           51.0059      12.6176      1.87156      49.1344        44.74
+
+bsk5mpopen      3      Membrane(Average) Stress            25.7272      3.55022     0.327875      25.3993      23.9512
+                       Membrane+Bending, Point 1            49.095      10.8199      1.32945      47.7656      43.7984
+
+bsk5mpopen      4      Membrane(Average) Stress             23.948      4.03503     0.492061      23.4559      21.9004
+                       Membrane+Bending, Point 1           48.7931      10.3393      1.04276      47.7504      43.8476
+
+bsk5mpopen      5      Membrane(Average) Stress             25.964      4.68986     0.612329      25.3517      23.5788
+                       Membrane+Bending, Point 1             51.14       11.104     0.653444      50.4866      46.1573
+
+bsk5mpopen      6      Membrane(Average) Stress            28.7651      5.20588    -0.296303      29.0614      26.7384
+                       Membrane+Bending, Point 1            55.867      11.5869     -1.60343      57.4704      52.1419
+
+bsk5mpopen      7      Membrane(Average) Stress            28.0591      5.13399    -0.671643      28.7307      26.3128
+                       Membrane+Bending, Point 1           44.8808      9.06558    -0.179997      45.0608      41.2231
+
+bsk5mpopen      8      Membrane(Average) Stress            25.4602      4.08518    0.0583512      25.4019       23.647
+                       Membrane+Bending, Point 1           46.8716      9.85561      1.15488      45.7167       42.047
+
+bsk5mpopen      9      Membrane(Average) Stress            23.9268      3.00324    -0.365584      24.2924      22.7955
+                       Membrane+Bending, Point 1           41.5056      7.76556   -0.0931568      41.5987      38.2793
+
+bsk5mpopen      10     Membrane(Average) Stress            22.5467       2.0147    -0.332308       22.879      21.8005
+                       Membrane+Bending, Point 1           40.6544      6.41858     0.291939      40.3625      37.6747
+
+bsk5mpopen      11     Membrane(Average) Stress            21.0571     0.761813    -0.237068      21.2942      20.8127
+                       Membrane+Bending, Point 1           37.2623      3.25963     0.556453      36.7058      35.4317
+
+bsk5mpopen      12     Membrane(Average) Stress             20.036     0.047023    -0.843925      20.8799       20.449
+                       Membrane+Bending, Point 1           37.9026      2.25719    -0.761237      38.6639      37.2465
+
+bsk5mpopen      13     Membrane(Average) Stress            21.1452       1.1211    -0.571744       21.717       20.922
+                       Membrane+Bending, Point 1           38.6557      4.80462    -0.524914      39.1806      36.8064
+
+bsk5mpopen      14     Membrane(Average) Stress             22.132      2.13547     0.482058      21.6499      20.8724
+                       Membrane+Bending, Point 1           42.5894       7.3539     0.785264      41.8042      38.9376
+
+bsk5mpopen      15     Membrane(Average) Stress            22.6301      2.78439     0.552231      22.0779      21.0507
+                       Membrane+Bending, Point 1           43.0174      8.42798     0.690213      42.3272      39.0378
+
+bsk5mpopen      16     Membrane(Average) Stress            23.7676      3.98105     0.761465      23.0061      21.5772
+                       Membrane+Bending, Point 1           48.8721        10.34     0.898896      47.9732      44.0186
+
+bsk5mpopen      17     Membrane(Average) Stress             25.257      4.66969      0.80885      24.4481      22.7646
+                       Membrane+Bending, Point 1           48.9822      10.9051       1.5815      47.4007      43.4949
+
+bsk5mpopen      18     Membrane(Average) Stress            23.2223      4.39643     0.743884      22.4784       20.893
+                       Membrane+Bending, Point 1           48.2074      10.2786     0.801092      47.4063      43.4498
+
+bsk5mpopen      19     Membrane(Average) Stress            24.5564      4.31709     0.893095      23.6633      22.1507
+                       Membrane+Bending, Point 1            50.346      11.2022      1.74983      48.5961      44.6272
+
+bsk5mpopen      20     Membrane(Average) Stress            24.2594      3.44165     0.214946      24.0445      22.6045
+                       Membrane+Bending, Point 1           53.1407      11.6727    0.0449597      53.0958      48.3423
+
+bsk5mpopen      21     Membrane(Average) Stress            23.8912      2.83236     0.387552      23.5037      22.3817
+                       Membrane+Bending, Point 1           51.6743      11.8036     0.507431      51.1668      46.5581
+
+bsk5mpopen      22     Membrane(Average) Stress            23.5579      4.47432      2.04258      21.5154      20.4084
+                       Membrane+Bending, Point 1           55.5905      14.5593      7.81549       47.775      44.7855
